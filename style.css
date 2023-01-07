@@ -1,0 +1,106 @@
+.banner{
+    background-image:url('images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    padding:100px 100px 100px 800px;
+    text-align-last: right;
+}
+.btn-primary {
+    color:darkblue;
+    font-weight: 700;
+    font-size: 22px;
+    border:40;
+    padding: 18px 28px;
+    height: 55px;
+    border-radius: 5px;
+    background:white;
+    border-color: darkblue;
+    box-shadow:5px 10px;
+    
+}
+.btn-extra{
+    color:darkblue;
+    font-weight: 700;
+    font-size: 22px;
+    border:40;
+    padding: 18px 28px;
+    height: 50px;
+    border-radius: 5px;
+    background:white;
+    border-color: darkblue;
+    box-shadow:5px 10px;
+}
+.banner-heading{
+    font-size:50px;
+    
+}
+.banner2{
+    display:flex;
+    justify-content:right;
+    align-items: center;
+    padding:100px 100px 100px;
+}
+.banner2 h1{
+    font-size:40px;
+}
+.banner2 img{
+    width:80%;
+}
+.banner3 h1{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.plan{
+    text-align: center;
+}
+.plan-div{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.banner4{
+    margin: 100px 200px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+padding: 60px;
+}
+.banner4 h1{
+    color: white;
+}
+.media{
+    display: flex;
+    justify-content:start;
+}
+.banner5{
+    padding: 100px 200px;
+    background-color: black;
+    display: flex;
+    justify-content:space-around;
+    color: white;
+
+}
+.banner5 input{
+    border: white;
+    border-radius: 5%;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.banner5 img{
+    margin-right: 10px;
+}
+.extra{
+    background-image: url('images/banner/bunas.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    padding:80px 80px 80px 100px;
+    text-align:center;
+    font-weight: 200;
+}
+
+
+
+
+
